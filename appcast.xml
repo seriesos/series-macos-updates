@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Series</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Thu, 23 Mar 2023 22:16:20 -0700</pubDate>
+            <link>https://github.com/seriesos/series-macos-updates/releases</link>
+            <sparkle:version>0.0.1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.1/Series-0.0.1.zip" length="6346317" type="application/octet-stream" sparkle:edSignature="gpz6XkuyAjzHOfRLRzUJgbNXnv+5Tg1MqtEBS1SZ9pd9xkR0ClR9MvuKJTSieB3E8GjcOiqPBih+ZbHua+vgBg=="/>
+        </item>
+    </channel>
+</rss>
