@@ -3,13 +3,25 @@
     <channel>
         <title>Series</title>
         <item>
+            <title>0.0.2</title>
+            <pubDate>Fri, 24 Mar 2023 16:39:06 -0700</pubDate>
+            <link>https://github.com/seriesos/series-macos-updates/releases</link>
+            <sparkle:version>0.0.2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.2/Series-0.0.2.zip" length="6346302" type="application/octet-stream" sparkle:edSignature="vDUIqLDVA1C4+SIPFgqljdgGmJHecrJMG22+uPkSTrW3BjUXGOG17B04JQFHRbY7mh6aztcC3nCYLHKFLWwOAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.2/Series0.0.2-0.0.1.delta" sparkle:deltaFrom="0.0.1" length="16010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XIUMiG3X4TnMF1Ib1VYcwxEy3PrjnCvDOXQ5rnwBek46oiSaU9dZEtL+AqmmDLv4OInto3gVZtEJnDrlWUNLBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.1</title>
             <pubDate>Thu, 23 Mar 2023 22:16:20 -0700</pubDate>
             <link>https://github.com/seriesos/series-macos-updates/releases</link>
             <sparkle:version>0.0.1</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.1/Series-0.0.1.zip" length="6346317" type="application/octet-stream" sparkle:edSignature="gpz6XkuyAjzHOfRLRzUJgbNXnv+5Tg1MqtEBS1SZ9pd9xkR0ClR9MvuKJTSieB3E8GjcOiqPBih+ZbHua+vgBg=="/>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.2/Series-0.0.1.zip" length="6346317" type="application/octet-stream" sparkle:edSignature="gpz6XkuyAjzHOfRLRzUJgbNXnv+5Tg1MqtEBS1SZ9pd9xkR0ClR9MvuKJTSieB3E8GjcOiqPBih+ZbHua+vgBg=="/>
         </item>
     </channel>
 </rss>
