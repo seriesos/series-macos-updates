@@ -3,13 +3,29 @@
     <channel>
         <title>Series</title>
         <item>
+            <title>0.0.7</title>
+            <pubDate>Wed, 05 Apr 2023 13:09:02 -0700</pubDate>
+            <link>https://github.com/seriesos/series-macos-updates/releases</link>
+            <sparkle:version>0.0.7</sparkle:version>
+            <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series-0.0.7.zip" length="7062725" type="application/octet-stream" sparkle:edSignature="otsCDU7eU7W5/JBwr1XXTdoc547N+AkJtDAlXqYyr2KlOaHXS9QH79muz29cOO3Pd1sbMaTGAWzY38xGdmuEDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series0.0.7-0.0.6.delta" sparkle:deltaFrom="0.0.6" length="16322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="IvmiXxcPX7HrEhWXyPNt5uRdQaPZILg08w6FsW1H1l6KMvU7WToRXiyivQvQrTxx5ILJifiTCE49r6mZBFp/Dw=="/>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series0.0.7-0.0.5.delta" sparkle:deltaFrom="0.0.5" length="571890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NaO28M1+bmyEQg82GD5iPdzQCbb3/HjHrcykIPYgzPjFJnVoeQqZq6MDotBHxU2QnB1Zr0l1NQP8wNGWfW7RDQ=="/>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series0.0.7-0.0.4.delta" sparkle:deltaFrom="0.0.4" length="328970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="PTm4Vt+nQLHfguy+K37EIonYkrR1Lp0D9Ykff788O8rCLIqKRH+HvtvVGylhHca8oNychqab6Pw41j7pF6bQCg=="/>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series0.0.7-0.0.3.delta" sparkle:deltaFrom="0.0.3" length="2959234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aMImiH41eTK6nH5wrIEcZqaP6zPswn2ncyynVKm7eIzzxmhS5uCra57Sy3MNySkveTsaguGMO7MI/JWJnUb1DA=="/>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series0.0.7-0.0.2.delta" sparkle:deltaFrom="0.0.2" length="2967378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1S8HwP+idbPIMtB8Rb8dvEF5PBLys2VfJGvWgIw9eUHSgBoae+1YXbhcCnahkYBeRqP358jNb+P83/Hi4Q9WAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.6</title>
             <pubDate>Wed, 05 Apr 2023 12:54:31 -0700</pubDate>
             <link>https://github.com/seriesos/series-macos-updates/releases</link>
             <sparkle:version>0.0.6</sparkle:version>
             <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.6/Series-0.0.6.zip" length="7062738" type="application/octet-stream" sparkle:edSignature="D0JbQtn85qKww1vxHaUxCpWclWXmoT2zme2vq59jw4eh+Ey7MJYodFgbpk3wiZiwoJvaUGfDd8rbhf6eOYCDCA=="/>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series-0.0.6.zip" length="7062738" type="application/octet-stream" sparkle:edSignature="D0JbQtn85qKww1vxHaUxCpWclWXmoT2zme2vq59jw4eh+Ey7MJYodFgbpk3wiZiwoJvaUGfDd8rbhf6eOYCDCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.6/Series0.0.6-0.0.5.delta" sparkle:deltaFrom="0.0.5" length="572238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="lZxOg5E0w8l9nlNswy83U/2uJKIdslAjHbne7WkniEZ2j/PHjdJln1NZCbFS5kIaHcBbA/EBVA3kSMVSSUwPBQ=="/>
                 <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.6/Series0.0.6-0.0.4.delta" sparkle:deltaFrom="0.0.4" length="329002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aObZ6JMg5VnfRfbIXfWi/SxvRZw3Xik764Gx5rqoV0ZkIdvxf+EaG75XgnS30n63DI26I/JwcuvKns4fGyq0BQ=="/>
@@ -25,26 +41,12 @@
             <sparkle:version>0.0.5</sparkle:version>
             <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.6/Series-0.0.5.zip" length="7080114" type="application/octet-stream" sparkle:edSignature="Zyu4kdiIOTv4yJCRd9KGDZJwNx2r/RY+Bp6sbg+2mV/t1Bn2zQ+BRDJDdYJvj8jXKqSKcJHaTf1FGaUtSx9GBA=="/>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.7/Series-0.0.5.zip" length="7080114" type="application/octet-stream" sparkle:edSignature="Zyu4kdiIOTv4yJCRd9KGDZJwNx2r/RY+Bp6sbg+2mV/t1Bn2zQ+BRDJDdYJvj8jXKqSKcJHaTf1FGaUtSx9GBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.5/Series0.0.5-0.0.4.delta" sparkle:deltaFrom="0.0.4" length="577986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/gD8rtdebgf0mWXjbcrkz1rX0R6fDU0NZfGBYrXO7NJO+z+vt6miOqIEFPuhsu5+pEnsVk7Qk4Q91bxv+D0BCg=="/>
                 <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.5/Series0.0.5-0.0.3.delta" sparkle:deltaFrom="0.0.3" length="2967910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="P8p2lkT22Bg6FKUczu/f4B7TjYnEdp5SAuw8PxWfKNp+nxmSofULbhhCEk57RNqTC2qfyAFUbZDay8UH/wMqDw=="/>
                 <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.5/Series0.0.5-0.0.2.delta" sparkle:deltaFrom="0.0.2" length="2984214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="EfmjXrMYF7eK0jHijTB+kl34iUDmRj7MgbLQTbrz17qXND+PiZyWqoSv1//H7T5xX89ZxYg7l1LZLjUieQFdAQ=="/>
                 <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.5/Series0.0.5-0.0.1.delta" sparkle:deltaFrom="0.0.1" length="2979286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NJJE4z5LiijurtT8W3dpaQogBeD22HnTMxb98h+3AXyrttEK+KKTcYNXm4p5hwPRNpU7GSVoK4H5m872ymUODQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.4</title>
-            <pubDate>Fri, 31 Mar 2023 17:13:49 -0700</pubDate>
-            <link>https://github.com/seriesos/series-macos-updates/releases</link>
-            <sparkle:version>0.0.4</sparkle:version>
-            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.6/Series-0.0.4.zip" length="7061513" type="application/octet-stream" sparkle:edSignature="p8gVtze+8Aa/HEBA3O/xYref0+sAGJvxBvYCt6gQvt24EeSeP/erpFOpltGzBfC1dzenwva/VLfhPpXGrsHaBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.4/Series0.0.4-0.0.3.delta" sparkle:deltaFrom="0.0.3" length="2955402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eoSrh67esa4QJHq3fpfbvzNidSzv1r+4YYppNCXW1xfsbAxAk9ZCOzLPWkIAIQxW4ZqcFzcxSMJbEa4ptP1UAg=="/>
-                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.4/Series0.0.4-0.0.2.delta" sparkle:deltaFrom="0.0.2" length="2961606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Ds30nmVs5xhKaSM9AoOJw4we8lyEb4XiB3MXHDTIe2aZLKNzqweRyuS4+AxxsDJ1U/GTT4uR/vUiJoXN6xxFCw=="/>
-                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.4/Series0.0.4-0.0.1.delta" sparkle:deltaFrom="0.0.1" length="2959502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1378880" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SNPyHwgPH/URFNYV4BkwHrzkCKBR2Vfma3bgozVQjkFL4u/Ynk2t/cxlTQx1alUrnK+JG790Ajb1lUlGRZ4IDw=="/>
             </sparkle:deltas>
         </item>
     </channel>
