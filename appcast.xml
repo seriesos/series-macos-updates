@@ -3,13 +3,25 @@
     <channel>
         <title>Series</title>
         <item>
+            <title>0.0.68</title>
+            <pubDate>Mon, 18 Mar 2024 20:59:41 +0000</pubDate>
+            <link>https://github.com/seriesos/series-macos-updates/releases</link>
+            <sparkle:version>0.0.68</sparkle:version>
+            <sparkle:shortVersionString>0.0.68</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.68/Series-0.0.68.zip" length="34491237" type="application/octet-stream" sparkle:edSignature="9YANInGcPRBOm7+4m8+n5gSL/PJ6R5E3pYu1TQD06+n5yuCYozqgvyaj5qyUxXf7J8fPksVH9O39qT7+RZ4dAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.68/Series0.0.68-0.0.67.delta" sparkle:deltaFrom="0.0.67" length="1333074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="n3mWcRcjj1Jc2AAOjOeD+jeHitMFQ22DoQwNfbVTA/u9kQunsNzvhKdHhhKButmNYoRz1I+7G7EoJt3Mv6Y/Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.67</title>
             <pubDate>Mon, 18 Mar 2024 00:06:33 +0000</pubDate>
             <link>https://github.com/seriesos/series-macos-updates/releases</link>
             <sparkle:version>0.0.67</sparkle:version>
             <sparkle:shortVersionString>0.0.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.67/Series-0.0.67.zip" length="34477807" type="application/octet-stream" sparkle:edSignature="CTIRPWgp/fPvxX2gn+9XyyeV+AdMhQUcHj97/t+QrfQSdmUS7HKyKm53wZVLgVkEosRKXdTPJzYQWIUZRs4WAg=="/>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.68/Series-0.0.67.zip" length="34477807" type="application/octet-stream" sparkle:edSignature="CTIRPWgp/fPvxX2gn+9XyyeV+AdMhQUcHj97/t+QrfQSdmUS7HKyKm53wZVLgVkEosRKXdTPJzYQWIUZRs4WAg=="/>
         </item>
         <item>
             <title>0.0.66</title>
