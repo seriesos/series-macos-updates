@@ -3,6 +3,18 @@
     <channel>
         <title>Series</title>
         <item>
+            <title>0.0.69</title>
+            <pubDate>Tue, 19 Mar 2024 08:52:03 +0000</pubDate>
+            <link>https://github.com/seriesos/series-macos-updates/releases</link>
+            <sparkle:version>0.0.69</sparkle:version>
+            <sparkle:shortVersionString>0.0.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.69/Series-0.0.69.zip" length="35299977" type="application/octet-stream" sparkle:edSignature="7OqeAPbC07tzuLsQPW/7sHMURIulE8LwiSjL8bp9+MZ9a2S95Y4Hlej9GdrN7HsA2zHYOncxuOhNSRIvqLwiAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.69/Series0.0.69-0.0.67.delta" sparkle:deltaFrom="0.0.67" length="2831054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1BOAZ8lS7eBG1SPw7lbz1NiDXJdpzMyHuvKjvKtW9MgHp+bkrgfnBp5ykPBJCq0mK9+eegA47AhRna5fNJ8XCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.68</title>
             <pubDate>Mon, 18 Mar 2024 20:59:41 +0000</pubDate>
             <link>https://github.com/seriesos/series-macos-updates/releases</link>
@@ -21,16 +33,7 @@
             <sparkle:version>0.0.67</sparkle:version>
             <sparkle:shortVersionString>0.0.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.68/Series-0.0.67.zip" length="34477807" type="application/octet-stream" sparkle:edSignature="CTIRPWgp/fPvxX2gn+9XyyeV+AdMhQUcHj97/t+QrfQSdmUS7HKyKm53wZVLgVkEosRKXdTPJzYQWIUZRs4WAg=="/>
-        </item>
-        <item>
-            <title>0.0.66</title>
-            <pubDate>Fri, 15 Mar 2024 08:55:09 +0000</pubDate>
-            <link>https://github.com/seriesos/series-macos-updates/releases</link>
-            <sparkle:version>0.0.66</sparkle:version>
-            <sparkle:shortVersionString>0.0.66</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.66/Series-0.0.66.zip" length="33881420" type="application/octet-stream" sparkle:edSignature="Hble8LQU9TLe1rtAb7cXYTUpqCTOrdNnuFV5I5PHL1UPo8UPsx4G5bC5U4r/b8q2ZW0JRcBI8oEC0F3MoXwjDA=="/>
+            <enclosure url="https://github.com/seriesos/series-macos-updates/releases/download/v0.0.69/Series-0.0.67.zip" length="34477807" type="application/octet-stream" sparkle:edSignature="CTIRPWgp/fPvxX2gn+9XyyeV+AdMhQUcHj97/t+QrfQSdmUS7HKyKm53wZVLgVkEosRKXdTPJzYQWIUZRs4WAg=="/>
         </item>
         <item>
             <title>0.0.22</title>
